@@ -1,0 +1,11276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="PAMSIMAS_SISTEM_PELAYANAN_SUMBER_AIR" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>PAMSIMAS_SISTEM_PELAYANAN_SUMBER_AIR</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle019">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a35b0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle022">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a3d08_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle04">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_c808f38_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle072">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a2fd0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<Icon>
+				<href>Layer0_Symbol_205a2a10_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle015">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a22b8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle062">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a2140_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle050">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a32c0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle05">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a3148_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle037">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a3438_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle030">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a38a0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle027">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a3b90_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle020">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a3728_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle023">
+		<IconStyle>
+			<scale>0.9375</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a25a8_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle028">
+		<IconStyle>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_205a3a18_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>PAMSIMAS_SISTEM_PELAYANAN_SUMBER_AIR</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Wiradadi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Wiradadi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>371</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Wiradadi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,254472</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,471889</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2544722222222,-7.47188888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Tamansari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tamansari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>380</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Tamansari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Karanglewas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,186472</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,430972</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1864722222222,-7.430972222222223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Tamansari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tamansari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>381</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Tamansari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Karanglewas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,191833</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,421194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1918333333333,-7.421194444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Tamansari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Tamansari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>382</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Tamansari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Karanglewas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,186528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,430944</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1865277777778,-7.430944444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Randegan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>384</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,010333</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.0103333333333,-7.524833333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Randegan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Randegan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>385</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Pengolahan/penyaringan sederhana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-012</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Randegan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Wangon</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,010583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524722</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>109.0105833333333,-7.524722222222224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Banjaranyar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Banjaranyar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>392</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Banjaranyar</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,081583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,354972</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.0815833333333,-7.354972222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Banjarsari Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Banjarsari Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>397</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Banjarsari Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,247389</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,343889</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.2473888888889,-7.34388888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Bogangin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bogangin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>402</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Bogangin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumpiuh</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,389528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,585056</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.3895277777778,-7.585055555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Bogangin</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bogangin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>403</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Pengolahan/penyaringan sederhana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-012</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Bogangin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumpiuh</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,389139</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,585861</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>109.3891388888889,-7.585861111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Danaraja</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Danaraja</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>418</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Danaraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,306194</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,529444</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.3061944444444,-7.529444444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Kedungrandu</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungrandu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>426</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedungrandu</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,224833</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,470111</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2248333333333,-7.470111111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Kemawi</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kemawi</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>430</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kemawi</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,337667</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,57125</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.3376666666667,-7.571250000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Kranggan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kranggan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>435</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kranggan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,077694</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,323972</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.0776944444445,-7.323972222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Pajerukan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>443</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,314972</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,487806</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.3149722222222,-7.487805555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Pandansari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pandansari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>447</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0214</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pandansari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Ajibarang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,077556</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,394528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle015</styleUrl>
+			<Point>
+				<coordinates>109.0775555555556,-7.394527777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Parungkamal</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parungkamal</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>450</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Penangkap Mata Air</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Parungkamal</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,009639</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524694</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle04</styleUrl>
+			<Point>
+				<coordinates>109.0096388888889,-7.524694444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Parungkamal</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Parungkamal</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>451</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Gravitasi Pengolahan/penyaringan sederhana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-012</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Parungkamal</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,010083</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,524833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle05</styleUrl>
+			<Point>
+				<coordinates>109.0100833333333,-7.524833333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Pegalongan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pegalongan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>459</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pompa Sumur Bor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-0210</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pegalongan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,237861</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,482944</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2378611111111,-7.482944444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Banjarsari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Banjarsari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>850</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Banjarsari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Ajibarang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,110417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,420056</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.1104166666667,-7.420055555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Binangun</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Binangun</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>860</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-026</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Binangun</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,242417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,518778</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle020</styleUrl>
+			<Point>
+				<coordinates>109.2424166666667,-7.518777777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Cikidang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cikidang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>866</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-026</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Cikidang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,122083</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,400611</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle020</styleUrl>
+			<Point>
+				<coordinates>109.1220833333333,-7.400611111111112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Gumelar Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>869</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Sumur Dalam/Bor.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-031</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Tambak</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,386361</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,609528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle022</styleUrl>
+			<Point>
+				<coordinates>109.3863611111111,-7.609527777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Gumelar Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>870</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Sambungan PLN/Genset.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-017</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Tambak</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,386361</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,609528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle023</styleUrl>
+			<Point>
+				<coordinates>109.3863611111111,-7.609527777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Gumelar Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>873</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-026</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Tambak</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,386361</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,609528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle020</styleUrl>
+			<Point>
+				<coordinates>109.3863611111111,-7.609527777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Gumelar Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>874</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Gumelar Lor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Tambak</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,386361</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,609528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.3863611111111,-7.609527777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Karangdadap</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>877</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Sumur Dalam/Bor.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-031</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,292611</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,4845</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle022</styleUrl>
+			<Point>
+				<coordinates>109.2926111111111,-7.484499999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Karangdadap</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>878</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Sambungan PLN/Genset.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-037</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,292611</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,4845</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle027</styleUrl>
+			<Point>
+				<coordinates>109.2926111111111,-7.484499999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Karangdadap</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>881</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-036</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,29025</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,479861</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle028</styleUrl>
+			<Point>
+				<coordinates>109.29025,-7.479861111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Karangdadap</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>882</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-036</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangdadap</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,29025</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,479861</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle028</styleUrl>
+			<Point>
+				<coordinates>109.29025,-7.479861111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Kutaliman</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kutaliman</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>886</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kutaliman</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,217111</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,357639</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.2171111111111,-7.357638888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Samudra</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Samudra</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>892</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Samudra</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Gumelar</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,008833</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,354444</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.0088333333333,-7.354444444444443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Samudra Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Samudra Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>895</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Samudra Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Gumelar</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,983</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,364167</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>108.983,-7.364166666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Samudra Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Samudra Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>899</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Samudra Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Gumelar</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,981722</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,358083</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>108.9817222222222,-7.358083333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Sikapat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sikapat</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>901</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sikapat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,241139</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,305</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.2411388888889,-7.305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Gandatapa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gandatapa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>907</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Gandatapa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,267556</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,325417</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.2675555555556,-7.325416666666668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Gandatapa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gandatapa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>910</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Gandatapa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,267611</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,334194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.2676111111111,-7.334194444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Glempang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Glempang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>913</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Intake.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-021</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Glempang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,098583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,341361</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle037</styleUrl>
+			<Point>
+				<coordinates>109.0985833333333,-7.341361111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Glempang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Glempang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>916</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Glempang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,104528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,349556</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.1045277777778,-7.349555555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Glempang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Glempang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>919</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Glempang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,098583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,341361</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.0985833333333,-7.341361111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Karangsari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangsari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>926</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangsari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,278333</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,3945</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.2783333333333,-7.394500000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Karangsari</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangsari</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>927</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Sambungan PLN/Genset.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-017</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangsari</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,278333</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,3945</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle023</styleUrl>
+			<Point>
+				<coordinates>109.2783333333333,-7.394500000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Karangtengah</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangtengah</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>933</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangtengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,304694</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,416639</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.3046944444444,-7.416638888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Karangtengah</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangtengah</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>934</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Karangtengah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,304639</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,416639</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.3046388888889,-7.416638888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>940</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,942222</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,445972</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>108.9422222222222,-7.445972222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>942</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,938972</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,440722</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>108.9389722222222,-7.440722222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>943</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,949972</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,461944</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>108.9499722222222,-7.461944444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>945</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,945917</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,460472</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>108.9459166666667,-7.460472222222223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>947</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,938583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,439111</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>108.9385833333333,-7.439111111111112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>949</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,940972</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,442194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>108.9409722222222,-7.442194444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Kedunggede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>953</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dangkal Sumur Gali.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-041</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kedunggede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Lumbir</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>108,943444</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,444167</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle050</styleUrl>
+			<Point>
+				<coordinates>108.9434444444445,-7.444166666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Klinthing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Klinthing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>955</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Klinthing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,33775</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,357528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.33775,-7.357527777777777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Klinthing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Klinthing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>957</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Klinthing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,341306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,542139</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.3413055555556,-7.54213888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Klinthing</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Klinthing</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>959</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Klinthing</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,347528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,536833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.3475277777778,-7.536833333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Kotayasa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotayasa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>963</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kotayasa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,254194</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,330306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.2541944444445,-7.330305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Kotayasa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kotayasa</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>965</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Kotayasa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,259278</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,319333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.2592777777778,-7.319333333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Limpakuwus</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Limpakuwus</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>968</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Limpakuwus</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Sumbang</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,241222</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,304833</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.2412222222222,-7.304833333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Pageralang</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pageralang</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>979</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-026</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pageralang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kemranjen</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,280194</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,583722</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle020</styleUrl>
+			<Point>
+				<coordinates>109.2801944444445,-7.583722222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Pajerukan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>983</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Sumur Dalam/Bor.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-031</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,310583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,487306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle022</styleUrl>
+			<Point>
+				<coordinates>109.3105833333333,-7.487305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Pajerukan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>984</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Sambungan PLN/Genset.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-037</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,310583</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,487306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle027</styleUrl>
+			<Point>
+				<coordinates>109.3105833333333,-7.487305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Pajerukan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>987</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-036</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pajerukan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,310694</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,487306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle028</styleUrl>
+			<Point>
+				<coordinates>109.3106944444444,-7.487305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Panusupan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Panusupan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>988</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Panusupan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,1705</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,4525</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.1705,-7.452500000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Panusupan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Panusupan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>991</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Pompa.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-014</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Panusupan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,169528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,453972</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle062</styleUrl>
+			<Point>
+				<coordinates>109.1695277777778,-7.453972222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Papringan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Papringan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>996</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Intake.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-021</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Papringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,2395</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,510306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle037</styleUrl>
+			<Point>
+				<coordinates>109.2395,-7.510305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Papringan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Papringan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dangkal Sumur Gali.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-041</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Papringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,247917</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,503806</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle050</styleUrl>
+			<Point>
+				<coordinates>109.2479166666667,-7.503805555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Papringan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Papringan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1001</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-026</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Papringan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,24075</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,503194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle020</styleUrl>
+			<Point>
+				<coordinates>109.24075,-7.503194444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>Pasinggangan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pasinggangan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1004</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Permukaan Intake.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-021</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Pasinggangan</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,259278</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,546417</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle037</styleUrl>
+			<Point>
+				<coordinates>109.2592777777778,-7.546416666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>Rancamaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rancamaya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1010</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Rancamaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,138333</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,366556</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.1383333333333,-7.366555555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Rancamaya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rancamaya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1013</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Hydrant/Kran umum.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-016</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Rancamaya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,1475</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,393389</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle019</styleUrl>
+			<Point>
+				<coordinates>109.1475,-7.39338888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>Sambeng Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1016</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Penangkap Mata Air.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-011</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,302306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,401306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle030</styleUrl>
+			<Point>
+				<coordinates>109.3023055555556,-7.401305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>Sambeng Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1017</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Mata Air Sambungan PLN/Genset.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-017</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,302306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,401306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle023</styleUrl>
+			<Point>
+				<coordinates>109.3023055555556,-7.401305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>Sambeng Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1022</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dangkal Sumur Gali.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-041</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,302306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,401306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle050</styleUrl>
+			<Point>
+				<coordinates>109.3023055555556,-7.401305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>Sambeng Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1023</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Pengolahan/Penyaringan sederhana.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-032</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,302306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,401306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle072</styleUrl>
+			<Point>
+				<coordinates>109.3023055555556,-7.401305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>Sambeng Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>1024</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Sistem Pelayanan Sumber Air Tanah Dalam Pengolahan/Penyaringan sederhana.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>W-032</td>
+
+</tr>
+
+<tr>
+
+<td>Jumlah/ Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>Unit</td>
+
+</tr>
+
+<tr>
+
+<td>Desa</td>
+
+<td>Sambeng Kulon</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kecamatan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+<tr>
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tahun</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>MA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,302306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,401306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle072</styleUrl>
+			<Point>
+				<coordinates>109.3023055555556,-7.401305555555555,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,3768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="PAMSIMAS_KELEMBAGAAN" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>PAMSIMAS_KELEMBAGAAN</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_13c9c18_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle01">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_13ca080_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>PAMSIMAS_KELEMBAGAAN</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Bantar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bantar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>472</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Bantar</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Jatilawang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,091611</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,544056</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.0916111111111,-7.544055555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Bantar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bantar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>473</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Bantar</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Jatilawang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,089028</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,544278</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.0890277777778,-7.544277777777777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Buniayu</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Buniayu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>481</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Buniayu</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Tambak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,435611</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,616333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.4356111111111,-7.616333333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Buniayu</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Buniayu</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>482</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Buniayu</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Tambak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,435611</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,618056</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.4356111111111,-7.618055555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Dawuhan Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dawuhan Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>489</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Dawuhan Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,192056</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,382028</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.1920555555556,-7.382027777777777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Dawuhan Kulon</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dawuhan Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>490</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Dawuhan Kulon</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,189056</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,372528</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1890555555556,-7.372527777777776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Kalicupak Kidul</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kalicupak Kidul</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kalicupak Kidul</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,320222</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,460333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.3202222222222,-7.460333333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Kalicupak Kidul</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kalicupak Kidul</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>501</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kalicupak Kidul</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,320306</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,462389</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.3203055555556,-7.462388888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Kaliori</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kaliori</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>509</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kaliori</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,309417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,50675</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.3094166666667,-7.50675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Kaliori</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kaliori</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>510</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kaliori</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kalibagor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,296528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,505111</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.2965277777778,-7.505111111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Karangsalam</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangsalam</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>522</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Karangsalam</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kemranjen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,325333</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,56025</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.3253333333333,-7.56025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Karangsalam</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Karangsalam</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>523</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Karangsalam</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kemranjen</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,326417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,557333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.3264166666667,-7.557333333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Kasegeran</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kasegeran</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>531</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kasegeran</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,145417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,441944</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.1454166666667,-7.441944444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Kasegeran</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kasegeran</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>532</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>unit</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kasegeran</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,148417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,437056</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1484166666667,-7.437055555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Kedungwuluh Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwuluh Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>546</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedungwuluh Lor</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,185472</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,458194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.1854722222222,-7.458194444444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Kedungwuluh Lor</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Kedungwuluh Lor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>547</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Kedungwuluh Lor</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Patikraja</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,209139</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,464667</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2091388888889,-7.464666666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Keniten</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Keniten</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>548</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Keniten</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,215889</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,371722</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.2158888888889,-7.371722222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Keniten</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Keniten</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>556</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Keniten</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Kedungbanteng</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,201417</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,378194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.2014166666667,-7.378194444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Pekuncen</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>564</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Pekuncen</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Jatilawang</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,13125</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,5605</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.13125,-7.5605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Plana</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Plana</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>573</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Plana</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,362528</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,498333</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.3625277777778,-7.498333333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Plana</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Plana</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>574</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Plana</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,361139</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,497194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.3611388888889,-7.497194444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Somagede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>584</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,32525</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,526611</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.32525,-7.526611111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Somagede</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>585</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Somagede</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,332722</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,525194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.3327222222222,-7.525194444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Sudimara</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sudimara</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>593</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Masyarakat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0401</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudimara</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,147167</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,426111</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle01</styleUrl>
+			<Point>
+				<coordinates>109.1471666666667,-7.426111111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Sudimara</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sudimara</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Id</td>
+
+<td>594</td>
+
+</tr>
+
+<tr>
+
+<td>Jenis Kegiatan</td>
+
+<td>Promosi Kesehatan di Sekolah</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ID Kegiatan</td>
+
+<td>S-0402</td>
+
+</tr>
+
+<tr>
+
+<td>Volume</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Satuan</td>
+
+<td>kali</td>
+
+</tr>
+
+<tr>
+
+<td>Tahun</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Desa</td>
+
+<td>Sudimara</td>
+
+</tr>
+
+<tr>
+
+<td>Kecamatan</td>
+
+<td>Cilongok</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Kabupaten</td>
+
+<td>Banyumas</td>
+
+</tr>
+
+<tr>
+
+<td>Code</td>
+
+<td>K</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>X</td>
+
+<td>109,149833</td>
+
+</tr>
+
+<tr>
+
+<td>Y</td>
+
+<td>-7,425361</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>109.1498333333333,-7.425361111111111,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
